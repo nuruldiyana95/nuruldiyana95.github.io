@@ -57,4 +57,4 @@ let app6 = new Vue({
     data:{
         message:"Hello Vue!"
     }
-})
+});
