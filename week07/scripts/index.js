@@ -13,4 +13,11 @@ let app2 = new Vue({
         linkURL: "https://bbc.in/2LAnJs8",
         linkText: "Google is down!"
     }
+});
+
+let app3 = new Vue ({
+    el:"#app3",
+    data: {
+        seen: true
+    }
 })
